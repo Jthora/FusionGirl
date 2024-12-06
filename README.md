@@ -1,7 +1,7 @@
-# **FusionGirl: Defensive Documentation**
+# **FusionGirl**
 A video game about an average girl on a mission to save the world.
 
-## Defensive Publication Notice
+# Defensive Publication Notice
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14288284.svg)](https://doi.org/10.5281/zenodo.14288284)
 
 ## **1. Objective**
